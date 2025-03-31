@@ -1,0 +1,44 @@
+body {
+    font-family: 'Georgia', serif;
+    /* Changed font for the body */
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #4CAF50;
+    margin-top: 20px;
+    font-family: 'Verdana', sans-serif;
+    /* Different font for the heading */
+}
+
+p.intro {
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px;
+    padding: 10px;
+    background-color: #e8f5e9;
+    border: 2px solid #4CAF50;
+    border-radius: 5px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    max-width: 100%;
+    height: 40vh;
+}
+
+#content {
+    margin: 30px;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
